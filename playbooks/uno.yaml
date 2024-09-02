@@ -1,0 +1,7 @@
+---
+- name: union
+  host: all
+  become: true
+  roles:
+    - role: 'roles/crear'
+    

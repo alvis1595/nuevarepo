@@ -1,0 +1,4 @@
+---
+- name: crear algo
+  fetch
+  cmd: uname -a
